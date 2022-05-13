@@ -1,0 +1,17 @@
+body{
+    margin:0;
+    padding:0;
+    background-image: url(bg3.png);
+    background-size: 100%;
+}
+
+.choice-player-1, .choice-player-2{
+    height: 300px;
+    width: 300px;
+    background-color: #edf6f9;
+    margin-left: auto;
+    margin-right: auto;
+    background-size: 100%;
+}
+
+    
